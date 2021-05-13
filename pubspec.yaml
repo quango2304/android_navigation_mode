@@ -30,8 +30,6 @@ flutter:
       android:
         package: com.example.android_navigation_mode
         pluginClass: AndroidNavigationModePlugin
-      ios:
-        pluginClass: AndroidNavigationModePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
