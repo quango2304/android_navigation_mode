@@ -2,7 +2,7 @@ name: android_navigation_mode
 description: A new Flutter project.
 version: 0.0.1
 author: quango2304
-homepage: https://github.com/quango2304
+homepage: https://github.com/quango2304/android_navigation_mode
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
